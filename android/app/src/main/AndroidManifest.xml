@@ -1,7 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.todotxt_flutter_app">
-   <application
-        android:label="todotxt_flutter_app"
+    package="dev.bologni.todotxt">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <application
+        android:label="todo.txt"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"

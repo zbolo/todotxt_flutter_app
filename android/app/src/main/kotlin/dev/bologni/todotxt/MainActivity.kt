@@ -1,4 +1,4 @@
-package com.example.todotxt_flutter_app
+package dev.bologni.todotxt
 
 import io.flutter.embedding.android.FlutterActivity
 
